@@ -84,11 +84,11 @@ c. Click on the dropdown menu and select the animation blueprint you created.
 ![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/05d18e19-2e91-42a1-86dd-4a4da51497a4)
 ### JUMP TO WALK:
 ![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/74f32c62-c59e-4654-912d-ca8fff5b5e13)
-### IDLE TO JUMP:
+### JUMP TO IDLE:
 ![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/390d9dfd-fded-4ae1-9077-5a1a38853d7e)
-### ANIMATION BLUEPRINT:
+### IDLE TO JUMP:
 ![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/aa0a8a81-2215-4006-9093-1cd82ea3ea5a)
-
+### ANIMATION BLUEPRINT:
 ![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/215c467f-dd69-4971-9467-dcfee588235c)
 ### ANIMATION MONTAGE:
 ![P33](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/34fa2f55-f527-4b85-84eb-0bfc84286896)
