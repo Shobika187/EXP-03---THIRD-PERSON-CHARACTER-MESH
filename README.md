@@ -68,8 +68,38 @@ c. Click on the dropdown menu and select the animation blueprint you created.
 
 11.Test the character: Compile and save all the changes in the blueprints and animations. Now, you can test the character's jump, walk, and idle animations by clicking the Play button in the Unreal Editor.
 ## OUTPUT:
-![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/eb9a8e7a-2014-4462-af1f-f6017597e819)
-![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/65862955-797e-4b01-85e9-12f60ebafb56)
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+### ANIMATIONS:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/2e1b1c68-0dd9-440c-a86e-0172d15c7fc4)
+### STATE MACHINES:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/9f9c8a84-baed-46ae-afa0-793cd5616715)
+### STATE DIAGRAM:
+
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/eb522780-45de-41b9-b34b-c72082ebded3)
+### VARIABLES:
+
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/ccd5c90d-10dd-40a2-affe-a77305f73b03)
+### IDLE TO WALK:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/7a0545d2-cedc-4dae-a0dc-7063fd14a791)
+### WALK TO IDLE:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/05d18e19-2e91-42a1-86dd-4a4da51497a4)
+### WALK TO JUMP:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/74f32c62-c59e-4654-912d-ca8fff5b5e13)
+### JUMP TO WALK:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/390d9dfd-fded-4ae1-9077-5a1a38853d7e)
+### JUMP TO IDLE:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/aa0a8a81-2215-4006-9093-1cd82ea3ea5a)
+### IDLE TO JUMP:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/215c467f-dd69-4971-9467-dcfee588235c)
+### ANIM MONTAGE:
+![P33](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/34fa2f55-f527-4b85-84eb-0bfc84286896)
+![p21](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/1f85fe02-6df2-4d22-b07c-e3907352deff)
+### THIRD PERSON BLUEPRINT:
+![image](https://github.com/Shobika187/EXP-03---THIRD-PERSON-CHARACTER-MESH/assets/94508142/fb48e4cb-5cd6-4b25-89b2-6ad8360f2298)
+## RESULT:
+The third person character mesh has been successfully changed using animations.
+
+
+
+
+
+
